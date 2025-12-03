@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="movistar_epg_auto_m3u">
+  <channel id="Telecinco">
+    <display-name lang="es">Telecinco</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/T5" />
+  </channel>
+  <channel id="LA 1">
+    <display-name lang="es">LA 1</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVE" />
+  </channel>
+  <channel id="LA 2">
+    <display-name lang="es">LA 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2" />
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/A3" />
+  </channel>
+  <channel id="La Sexta">
+    <display-name lang="es">La Sexta</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA" />
+  </channel>
+  <channel id="Cuatro">
+    <display-name lang="es">Cuatro</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4" />
+  </channel>
+  <channel id="TV Canaria">
+    <display-name lang="es">TV Canaria</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CANAR" />
+  </channel>
+  <channel id="TV3">
+    <display-name lang="es">TV3</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TV3CAT" />
+  </channel>
+  <channel id="Aragón TV">
+    <display-name lang="es">Aragón TV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGTV" />
+  </channel>
+  <channel id="Movistar Plus+">
+    <display-name lang="es">Movistar Plus+</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MPLUS" />
+  </channel>
+  <channel id="Canal Sur">
+    <display-name lang="es">Canal Sur</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CANSUR" />
+  </channel>
+  <channel id="M+ Vamos">
+    <display-name lang="es">M+ Vamos</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAMOSD" />
+  </channel>
+  <channel id="Telemadrid">
+    <display-name lang="es">Telemadrid</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD" />
+  </channel>
+  <channel id="Castilla la Mancha TV">
+    <display-name lang="es">Castilla la Mancha TV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CASMAN" />
+  </channel>
+  <channel id="La 7">
+    <display-name lang="es">La 7</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYLTV" />
+  </channel>
+  <channel id="Canal Extremadura">
+    <display-name lang="es">Canal Extremadura</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTRE" />
+  </channel>
+  <channel id="TVG -TV Galicia">
+    <display-name lang="es">TVG -TV Galicia</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL" />
+  </channel>
+  <channel id="IB3">
+    <display-name lang="es">IB3</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/IB3" />
+  </channel>
+  <channel id="À Punt">
+    <display-name lang="es">À Punt</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/APUNT" />
+  </channel>
+  <channel id="Navarra TV">
+    <display-name lang="es">Navarra TV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NAVA" />
+  </channel>
+  <channel id="7 TV Región Murcia">
+    <display-name lang="es">7 TV Región Murcia</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/7TVMUR" />
+  </channel>
+  <channel id="M+ Hits">
+    <display-name lang="es">M+ Hits</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MHITS" />
+  </channel>
+  <channel id="M+ Estrenos">
+    <display-name lang="es">M+ Estrenos</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1" />
+  </channel>
+  <channel id="ETB 1">
+    <display-name lang="es">ETB 1</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB1" />
+  </channel>
+  <channel id="M+ Originales">
+    <display-name lang="es">M+ Originales</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MORIG" />
+  </channel>
+  <channel id="M+ Navidad">
+    <display-name lang="es">M+ Navidad</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MNAVID" />
+  </channel>
+  <channel id="M+ En juego">
+    <display-name lang="es">M+ En juego</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MDEPOR" />
+  </channel>
+  <channel id="M+ Documentales">
+    <display-name lang="es">M+ Documentales</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MDOC" />
+  </channel>
+  <channel id="AXN Movies">
+    <display-name lang="es">AXN Movies</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" />
+  </channel>
+  <channel id="BBC Series">
+    <display-name lang="es">BBC Series</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BBDRA" />
+  </channel>
+  <channel id="BBC Top Gear">
+    <display-name lang="es">BBC Top Gear</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BBGEA" />
+  </channel>
+  <channel id="Canal FlixOlé 1">
+    <display-name lang="es">Canal FlixOlé 1</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FLIX1" />
+  </channel>
+  <channel id="Canal FlixOlé 2">
+    <display-name lang="es">Canal FlixOlé 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FLIX2" />
+  </channel>
+  <channel id="Paramount Network">
+    <display-name lang="es">Paramount Network</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PARCH" />
+  </channel>
+  <channel id="BE MAD">
+    <display-name lang="es">BE MAD</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" />
+  </channel>
+  <channel id="STAR Channel">
+    <display-name lang="es">STAR Channel</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FOXGE" />
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN" />
+  </channel>
+  <channel id="Warner TV">
+    <display-name lang="es">Warner TV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TNT" />
+  </channel>
+  <channel id="Calle 13">
+    <display-name lang="es">Calle 13</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13" />
+  </channel>
+  <channel id="COSMO">
+    <display-name lang="es">COSMO</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/COSMO" />
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="es">SYFY</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SCI-FI" />
+  </channel>
+  <channel id="Veo7">
+    <display-name lang="es">Veo7</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VEO7" />
+  </channel>
+  <channel id="Neox">
+    <display-name lang="es">Neox</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEOX" />
+  </channel>
+  <channel id="Atreseries">
+    <display-name lang="es">Atreseries</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ATRESS" />
+  </channel>
+  <channel id="TRECE">
+    <display-name lang="es">TRECE</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/13TV" />
+  </channel>
+  <channel id="M+ Vamos 2">
+    <display-name lang="es">M+ Vamos 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAM2SD" />
+  </channel>
+  <channel id="Primera Federación">
+    <display-name lang="es">Primera Federación</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCOPA" />
+  </channel>
+  <channel id="M+ LALIGA">
+    <display-name lang="es">M+ LALIGA</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" />
+  </channel>
+  <channel id="LALIGA TV HYPERMOTION">
+    <display-name lang="es">LALIGA TV HYPERMOTION</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS" />
+  </channel>
+  <channel id="DAZN LALIGA">
+    <display-name lang="es">DAZN LALIGA</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZNLI" />
+  </channel>
+  <channel id="M+ LALIGA 2">
+    <display-name lang="es">M+ LALIGA 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG1" />
+  </channel>
+  <channel id="LALIGA TV HYPERMOTION 2">
+    <display-name lang="es">LALIGA TV HYPERMOTION 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS2" />
+  </channel>
+  <channel id="DAZN LALIGA 2">
+    <display-name lang="es">DAZN LALIGA 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZNL2" />
+  </channel>
+  <channel id="M+ Deportes">
+    <display-name lang="es">M+ Deportes</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP" />
+  </channel>
+  <channel id="M+ Deportes 2">
+    <display-name lang="es">M+ Deportes 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARTHUR" />
+  </channel>
+  <channel id="M+ Liga de Campeones 2">
+    <display-name lang="es">M+ Liga de Campeones 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP1" />
+  </channel>
+  <channel id="M+ Deportes 3">
+    <display-name lang="es">M+ Deportes 3</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP2" />
+  </channel>
+  <channel id="M+ Ellas V">
+    <display-name lang="es">M+ Ellas V</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MELLAV" />
+  </channel>
+  <channel id="M+ Golf">
+    <display-name lang="es">M+ Golf</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOLF%2B" />
+  </channel>
+  <channel id="M+ Liga de Campeones">
+    <display-name lang="es">M+ Liga de Campeones</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAPIO" />
+  </channel>
+  <channel id="M+ Golf 2">
+    <display-name lang="es">M+ Golf 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOLF2" />
+  </channel>
+  <channel id="DAZN F1">
+    <display-name lang="es">DAZN F1</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MVF1" />
+  </channel>
+  <channel id="M+ Liga de Campeones  3">
+    <display-name lang="es">M+ Liga de Campeones  3</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP2" />
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="es">Eurosport 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2" />
+  </channel>
+  <channel id="DAZN 1">
+    <display-name lang="es">DAZN 1</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M1SD" />
+  </channel>
+  <channel id="DAZN 2">
+    <display-name lang="es">DAZN 2</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD" />
+  </channel>
+  <channel id="Real Madrid TV">
+    <display-name lang="es">Real Madrid TV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/REALM" />
+  </channel>
+  <channel id="Teledeporte">
+    <display-name lang="es">Teledeporte</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TDEP" />
+  </channel>
+  <channel id="Caza y Pesca">
+    <display-name lang="es">Caza y Pesca</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CAZPES" />
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="es">National Geographic</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" />
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="es">Nat Geo Wild</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGW" />
+  </channel>
+  <channel id="GOL">
+    <display-name lang="es">GOL</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOL" />
+  </channel>
+  <channel id="El Garage TV">
+    <display-name lang="es">El Garage TV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GARAGE" />
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="es">Discovery</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" />
+  </channel>
+  <channel id="Ubeat">
+    <display-name lang="es">Ubeat</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/UBEAT" />
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="es">DMAX</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCRMAX" />
+  </channel>
+  <channel id="BBC History">
+    <display-name lang="es">BBC History</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BBHIS" />
+  </channel>
+  <channel id="BBC Food">
+    <display-name lang="es">BBC Food</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BBFOO" />
+  </channel>
+  <channel id="BBC Earth">
+    <display-name lang="es">BBC Earth</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BBCEAR" />
+  </channel>
+  <channel id="DKISS">
+    <display-name lang="es">DKISS</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DKISS" />
+  </channel>
+  <channel id="Divinity">
+    <display-name lang="es">Divinity</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DIVINI" />
+  </channel>
+  <channel id="Nova">
+    <display-name lang="es">Nova</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA" />
+  </channel>
+  <channel id="Mega">
+    <display-name lang="es">Mega</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEGA" />
+  </channel>
+  <channel id="BBC Lifestyle">
+    <display-name lang="es">BBC Lifestyle</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BBCLIF" />
+  </channel>
+  <channel id="Ten">
+    <display-name lang="es">Ten</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TEN" />
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="es">Baby TV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BABY" />
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="es">Disney Junior</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PLAYDC" />
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="es">NICK JR</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICKJR" />
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="es">Nickelodeon</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICK" />
+  </channel>
+  <channel id="Dreamworks">
+    <display-name lang="es">Dreamworks</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DWSP" />
+  </channel>
+  <channel id="Boing">
+    <display-name lang="es">Boing</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BOING" />
+  </channel>
+  <channel id="Clan TVE">
+    <display-name lang="es">Clan TVE</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLANTV" />
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MTV" />
+  </channel>
+  <channel id="MTV 00s">
+    <display-name lang="es">MTV 00s</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1" />
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="es">Mezzo</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEZZO" />
+  </channel>
+  <channel id="24 Horas">
+    <display-name lang="es">24 Horas</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/24H" />
+  </channel>
+  <channel id="BBC News">
+    <display-name lang="es">BBC News</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BBC" />
+  </channel>
+  <channel id="CNN Int">
+    <display-name lang="es">CNN Int</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CNN" />
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="es">Euronews</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ENW" />
+  </channel>
+  <channel id="Al Jazeera English">
+    <display-name lang="es">Al Jazeera English</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ALJAZE" />
+  </channel>
+  <channel id="FRANCE24 (FR)">
+    <display-name lang="es">FRANCE24 (FR)</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FRANCE" />
+  </channel>
+  <channel id="1+1 Internacional">
+    <display-name lang="es">1+1 Internacional</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/INTEUA" />
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="es">CNBC</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NBC" />
+  </channel>
+  <channel id="TV5MONDE">
+    <display-name lang="es">TV5MONDE</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TV5" />
+  </channel>
+  <channel id="UCL">
+    <display-name lang="es">UCL</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/UCL" />
+  </channel>
+  <channel id="Canal Sur Andalucía">
+    <display-name lang="es">Canal Sur Andalucía</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV" />
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="es">Bloomberg</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BL" />
+  </channel>
+  <channel id="El Toro TV">
+    <display-name lang="es">El Toro TV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/INTECO" />
+  </channel>
+  <channel id="CGTN Español">
+    <display-name lang="es">CGTN Español</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CCTV-E" />
+  </channel>
+  <channel id="Negocios TV">
+    <display-name lang="es">Negocios TV</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEGOTV" />
+  </channel>
+  <channel id="TVG Europa">
+    <display-name lang="es">TVG Europa</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVG" />
+  </channel>
+  <channel id="Canal Extremadura Sat">
+    <display-name lang="es">Canal Extremadura Sat</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM" />
+  </channel>
+  <channel id="Aragón TV Int">
+    <display-name lang="es">Aragón TV Int</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON" />
+  </channel>
+  <channel id="M+ LALIGA 4">
+    <display-name lang="es">M+ LALIGA 4</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG3" />
+  </channel>
+  <channel id="M+ LALIGA 5">
+    <display-name lang="es">M+ LALIGA 5</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4" />
+  </channel>
+  <channel id="M+ LALIGA 3">
+    <display-name lang="es">M+ LALIGA 3</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG2" />
+  </channel>
+  <channel id="LALIGA TV HYPERMOTION 3">
+    <display-name lang="es">LALIGA TV HYPERMOTION 3</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGS3" />
+  </channel>
+  <channel id="M+ Liga de Campeones  4">
+    <display-name lang="es">M+ Liga de Campeones  4</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3" />
+  </channel>
+  <channel id="M+ Liga de Campeones 5">
+    <display-name lang="es">M+ Liga de Campeones 5</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP4" />
+  </channel>
+  <channel id="M+ Liga de Campeones 6">
+    <display-name lang="es">M+ Liga de Campeones 6</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP5" />
+  </channel>
+  <channel id="M+ Liga de Campeones 7">
+    <display-name lang="es">M+ Liga de Campeones 7</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP6" />
+  </channel>
+  <channel id="M+ Liga de Campeones 8">
+    <display-name lang="es">M+ Liga de Campeones 8</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP7" />
+  </channel>
+  <channel id="M+ Liga de Campeones 9">
+    <display-name lang="es">M+ Liga de Campeones 9</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP8" />
+  </channel>
+  <channel id="M+ Liga de Campeones 10">
+    <display-name lang="es">M+ Liga de Campeones 10</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP9" />
+  </channel>
+  <channel id="M+ Liga de Campeones 11">
+    <display-name lang="es">M+ Liga de Campeones 11</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP10" />
+  </channel>
+  <channel id="M+ Deportes 4">
+    <display-name lang="es">M+ Deportes 4</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP3" />
+  </channel>
+  <channel id="M+ Deportes 5">
+    <display-name lang="es">M+ Deportes 5</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP11" />
+  </channel>
+  <channel id="M+ Liga de Campeones 12">
+    <display-name lang="es">M+ Liga de Campeones 12</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP11" />
+  </channel>
+  <channel id="M+ Liga de Campeones 13">
+    <display-name lang="es">M+ Liga de Campeones 13</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP12" />
+  </channel>
+  <channel id="M+ Deportes 6">
+    <display-name lang="es">M+ Deportes 6</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI8" />
+  </channel>
+  <channel id="M+ Deportes 7">
+    <display-name lang="es">M+ Deportes 7</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI6" />
+  </channel>
+  <channel id="M+ Deportes 8">
+    <display-name lang="es">M+ Deportes 8</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI9" />
+  </channel>
+  <channel id="M+ LALIGA HDR">
+    <display-name lang="es">M+ LALIGA HDR</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGUH" />
+  </channel>
+  <channel id="DAZN 3">
+    <display-name lang="es">DAZN 3</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3" />
+  </channel>
+  <channel id="DAZN 4">
+    <display-name lang="es">DAZN 4</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4" />
+  </channel>
+  <channel id="M+ LALIGA 2 HDR">
+    <display-name lang="es">M+ LALIGA 2 HDR</display-name>
+    <icon src="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIUHD" />
+  </channel>
+</tv>
